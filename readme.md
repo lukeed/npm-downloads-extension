@@ -7,7 +7,7 @@ When viewing any author page, this performs efficient API lookup(s) and then inj
 
 ## Install
 
-Install it from the [Chrome Web Store]() or [manually](http://superuser.com/a/247654/6877).
+Install it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/npm-downloads/gkopjiobbmgaolpocbjnjilaamleimbd) or [manually](http://superuser.com/a/247654/6877).
 
 _Firefox and Safari versions TBD._
 
