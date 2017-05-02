@@ -1,0 +1,23 @@
+{
+  "name": "NPM Downloads",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Display download counts alongside NPM author pages",
+  "homepage_url": "https://github.com/sindresorhus/npm-downloads-extension",
+  "icons": {
+    "128": "icons/icon128.png"
+  },
+  "permissions": [
+    "https://www.npmjs.com/~*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.npmjs.com/~*"
+      ],
+      "js": [
+        "index.js"
+      ]
+    }
+  ]
+}
