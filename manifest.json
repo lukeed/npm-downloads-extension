@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Display download counts alongside NPM author pages",
-  "homepage_url": "https://github.com/sindresorhus/npm-downloads-extension",
+  "homepage_url": "https://github.com/lukeed/npm-downloads-extension",
   "icons": {
     "128": "icons/128x128.png"
   },
