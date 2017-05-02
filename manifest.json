@@ -1,6 +1,6 @@
 {
   "name": "NPM Downloads",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "manifest_version": 2,
   "description": "Display download counts alongside NPM author pages",
   "homepage_url": "https://github.com/lukeed/npm-downloads-extension",
