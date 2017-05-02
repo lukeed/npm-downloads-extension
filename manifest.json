@@ -5,7 +5,7 @@
   "description": "Display download counts alongside NPM author pages",
   "homepage_url": "https://github.com/sindresorhus/npm-downloads-extension",
   "icons": {
-    "128": "icons/icon128.png"
+    "128": "icons/128x128.png"
   },
   "permissions": [
     "https://www.npmjs.com/~*"
